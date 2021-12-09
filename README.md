@@ -26,7 +26,7 @@ Project created by <a href="https://github.com/Ammu-ser">Ammu-ser</a> to make it
 
   ### Simple Method
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTY-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Ammu-ser/MAALUTTY-QR)
   
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ammu-ser/AMMU-SERV2) 
