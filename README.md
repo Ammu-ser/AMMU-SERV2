@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+AMMU-SERV2+WA+Bot...;Created+by+Ammu...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
 <div align="center">
-  <img border-radius: 15px src="https://i.ibb.co/N6b6cv3/Maalutty.png" width="200" height="200"/>
+  <img border-radius: 15px src="Ammu-ser.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="AMMU-SERV2" src="https://img.shields.io/badge/AMMU-SERV2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
