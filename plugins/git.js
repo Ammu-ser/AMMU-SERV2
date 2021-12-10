@@ -1,4 +1,4 @@
-const Maalutty = require('../events');
+const Ammuser = require('../events');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
 
@@ -17,18 +17,15 @@ Maalutty.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (mess
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `❤️Maalutty_v2💙
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `❤️AMMU-SERV2💙
 
-*bot making video* : https://youtu.be/jF8wF1KdyOw
+*Subscribe channel* : https://youtube.com/c/AFTROLLSS
 
 
-*owner number husni* :https://wa.me/917025868709.
+*owner number fasil* :https://wa.me/+919947430792.
             
 
-*owner number Nijin* :https://wa.me/919605385305.
-
-
-*owner id instagram* :https://instagram.com/_husni_ser_.
+*owner id instagram* :https://instagram.com/aftrolls_.
 
 
 *github* : https://github.com/Ammu-ser/AMMU-SERV2.
