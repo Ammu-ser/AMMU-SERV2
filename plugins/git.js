@@ -31,7 +31,7 @@ Maalutty.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (mess
 *owner id instagram* :https://instagram.com/_husni_ser_.
 
 
-*github* : https://github.com/nijin-husni/Maalutty.
+*github* : https://github.com/Ammu-ser/AMMU-SERV2.
 
 
 *audio commands* :https://github.com/nijin-husni/uploads/tree/main/bgm.
