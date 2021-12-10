@@ -1,4 +1,4 @@
-const Ammu-ser = require('../events');
+const Ammu = require('../events');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
 
