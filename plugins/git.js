@@ -1,4 +1,4 @@
-const Ammuser = require('../events');
+const Maalutty = require('../events');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
 
