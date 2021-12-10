@@ -34,11 +34,11 @@ Maalutty.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (mess
 *github* : https://github.com/Ammu-ser/AMMU-SERV2.
 
 
-*audio commands* :https://github.com/nijin-husni/uploads/tree/main/bgm.
+*audio commands* :https://github.com/Ammu-ser/uploads/tree/main/bgm.
 
-*sticker commands* :https://github.com/nijin-husni/uploads/tree/main/stickers.
+*sticker commands* :https://github.com/Ammu-ser/uploads/tree/main/stickers.
 ■□■□■□■□■□■□■□■□■□■□
-❤️Maalutty💙
+❤️AMMU-SER💙
 ▣▣ ~NIJIN~ AND ~HUSNI~ ▣▣
 
 `}) 
